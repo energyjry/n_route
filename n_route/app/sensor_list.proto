@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+message sensor_list
+{
+    repeated  sensor  sensors  = 1;
+}
+
+message sensor
+{
+	string 	tag          		= 1;
+	double 	value_double      	= 2;
+	int64  	value_int64			= 3;
+	string 	value_string		= 4;
+	bytes  	value_bytes			= 5;
+	int64 	data_type			= 6;      	
+	int64 	quality				= 7;        	
+	int64 	timestamp			= 8;      	
+}

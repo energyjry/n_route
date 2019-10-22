@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+message event_list
+{
+    repeated  event  events  = 1;
+}
+
+message event
+{
+	string 	source          = 1;
+	string 	event_type		= 2;
+	int64 	level			= 3;
+	string 	keyword			= 4;
+	string 	content			= 5;      	
+	int64 	timestamp		= 6;      	
+}

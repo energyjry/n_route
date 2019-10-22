@@ -1,0 +1,849 @@
+[2019-09-20 09:20:42] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 09:20:42] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 09:20:42] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 09:20:42] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 09:20:42] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 09:20:42] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 09:20:42] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 09:20:42] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_data 回调成功
+[2019-09-20 09:20:42] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 09:20:42] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 09:20:42] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 09:20:42] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 09:20:42] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_control 回调成功
+[2019-09-20 09:20:42] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 09:20:42] [n_route ] [INFO    ]: core.py line:224 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 09:20:42] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 09:20:42] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 09:20:42] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 09:20:42] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 09:21:49] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 09:21:49] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 09:21:49] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 09:21:49] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 09:21:49] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 09:21:49] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 09:21:49] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 09:21:49] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_data 回调成功
+[2019-09-20 09:21:49] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 09:21:49] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 09:21:49] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 09:21:49] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 09:21:49] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_control 回调成功
+[2019-09-20 09:21:49] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 09:21:49] [n_route ] [INFO    ]: core.py line:224 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 09:21:49] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 09:21:49] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 09:21:49] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 09:21:49] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 09:26:46] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 09:26:46] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 09:26:46] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 09:26:46] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 09:26:46] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 09:26:46] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 09:26:46] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 09:26:46] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_data 回调成功
+[2019-09-20 09:26:46] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 09:26:46] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 09:26:46] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 09:26:46] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 09:26:46] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_control 回调成功
+[2019-09-20 09:26:46] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 09:26:46] [n_route ] [INFO    ]: core.py line:224 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 09:26:46] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 09:26:46] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 09:26:46] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 09:26:46] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 09:45:52] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 09:45:52] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 09:45:52] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 09:45:52] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 09:45:52] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 09:45:52] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 09:45:52] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 09:45:52] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_data 回调成功
+[2019-09-20 09:45:52] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 09:45:52] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 09:45:52] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 09:45:52] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 09:45:52] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_control 回调成功
+[2019-09-20 09:45:52] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 09:45:52] [n_route ] [INFO    ]: core.py line:224 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 09:45:52] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 09:45:52] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 09:45:52] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 09:45:52] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 09:49:39] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 09:49:39] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 09:49:39] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 09:49:39] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 09:49:39] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 09:49:39] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 09:49:39] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 09:49:39] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_data 回调成功
+[2019-09-20 09:49:39] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 09:49:39] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 09:49:39] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 09:49:39] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 09:49:39] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_control 回调成功
+[2019-09-20 09:49:39] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 09:49:39] [n_route ] [INFO    ]: core.py line:224 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 09:49:39] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 09:49:39] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 09:49:39] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 09:49:39] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 09:51:31] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 09:51:31] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 09:51:31] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 09:51:31] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 09:51:31] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 09:51:31] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 09:51:31] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 09:51:31] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_data 回调成功
+[2019-09-20 09:51:31] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 09:51:31] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 09:51:31] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 09:51:31] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 09:51:31] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_control 回调成功
+[2019-09-20 09:51:32] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 09:51:32] [n_route ] [INFO    ]: core.py line:224 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 09:51:32] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 09:51:32] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 09:51:32] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 09:51:32] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 09:51:49] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 09:51:49] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 09:51:49] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 09:51:49] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 09:51:49] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 09:51:49] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 09:51:49] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 09:51:49] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_data 回调成功
+[2019-09-20 09:51:49] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 09:51:49] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 09:51:49] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 09:51:49] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 09:51:49] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_control 回调成功
+[2019-09-20 09:51:49] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 09:51:49] [n_route ] [INFO    ]: core.py line:224 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 09:51:49] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 09:51:49] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 09:51:49] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 09:51:49] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 09:52:54] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 09:52:54] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 09:52:54] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 09:52:54] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 09:52:54] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 09:52:54] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 09:52:54] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 09:52:54] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_data 回调成功
+[2019-09-20 09:52:54] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 09:52:54] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 09:52:54] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 09:52:54] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 09:52:54] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_control 回调成功
+[2019-09-20 09:52:54] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 09:52:54] [n_route ] [INFO    ]: core.py line:224 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 09:52:54] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 09:52:54] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 09:52:54] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 09:52:54] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 09:54:55] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 09:54:55] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 09:54:55] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 09:54:55] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 09:54:55] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 09:54:55] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 09:54:55] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 09:54:55] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_data 回调成功
+[2019-09-20 09:54:55] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 09:54:55] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 09:54:55] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 09:54:55] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 09:54:55] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_control 回调成功
+[2019-09-20 09:54:55] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 09:54:55] [n_route ] [INFO    ]: core.py line:224 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 09:54:55] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 09:54:55] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 09:54:55] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 09:54:55] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 09:56:21] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 09:56:22] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 09:56:22] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 09:56:22] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 09:56:22] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 09:56:22] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 09:56:22] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 09:56:22] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_data 回调成功
+[2019-09-20 09:56:22] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 09:56:22] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 09:56:22] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 09:56:22] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 09:56:22] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_control 回调成功
+[2019-09-20 09:56:22] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 09:56:22] [n_route ] [INFO    ]: core.py line:224 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 09:56:22] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 09:56:22] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 09:56:22] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 09:56:22] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 09:57:22] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 09:57:23] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 09:57:23] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 09:57:23] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 09:57:23] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 09:57:23] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 09:57:23] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 09:57:23] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_data 回调成功
+[2019-09-20 09:57:23] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 09:57:23] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 09:57:23] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 09:57:23] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 09:57:23] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_control 回调成功
+[2019-09-20 09:57:23] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 09:57:23] [n_route ] [INFO    ]: core.py line:224 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 09:57:23] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 09:57:23] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 09:57:23] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 09:57:23] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 10:02:53] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 10:02:53] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 10:02:53] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 10:02:53] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 10:02:53] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 10:02:53] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 10:02:53] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 10:02:53] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_data 回调成功
+[2019-09-20 10:02:53] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 10:02:53] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 10:02:53] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 10:02:53] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 10:02:53] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_control 回调成功
+[2019-09-20 10:02:53] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 10:02:53] [n_route ] [INFO    ]: core.py line:224 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 10:02:53] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 10:02:53] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 10:02:53] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 10:02:53] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 10:04:46] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 10:04:47] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 10:04:47] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 10:04:47] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 10:04:47] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 10:04:47] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 10:04:47] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 10:04:47] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_data 回调成功
+[2019-09-20 10:04:47] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 10:04:47] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 10:04:47] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 10:04:47] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 10:04:47] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_control 回调成功
+[2019-09-20 10:04:47] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 10:04:47] [n_route ] [INFO    ]: core.py line:224 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 10:04:47] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 10:04:47] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 10:04:47] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 10:04:47] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 10:06:30] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 10:06:30] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 10:06:30] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 10:06:30] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 10:06:30] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 10:06:30] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 10:06:30] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 10:06:30] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_data 回调成功
+[2019-09-20 10:06:30] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 10:06:30] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 10:06:30] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 10:06:30] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 10:06:30] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_control 回调成功
+[2019-09-20 10:06:30] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 10:06:30] [n_route ] [INFO    ]: core.py line:224 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 10:06:30] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 10:06:30] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 10:06:30] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 10:06:30] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 10:10:14] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 10:10:14] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 10:10:14] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 10:10:14] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 10:10:14] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 10:10:14] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 10:10:14] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 10:10:14] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_data 回调成功
+[2019-09-20 10:10:14] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 10:10:14] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 10:10:14] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 10:10:14] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 10:10:14] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_control 回调成功
+[2019-09-20 10:10:14] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 10:10:14] [n_route ] [INFO    ]: core.py line:224 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 10:10:14] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 10:10:14] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 10:10:14] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 10:10:14] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 10:13:50] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 10:13:50] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 10:13:50] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 10:13:50] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 10:13:50] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 10:13:50] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 10:13:50] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 10:13:50] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_data 回调成功
+[2019-09-20 10:13:50] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 10:13:50] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 10:13:50] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 10:13:50] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 10:13:50] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_control 回调成功
+[2019-09-20 10:13:50] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 10:13:50] [n_route ] [INFO    ]: core.py line:224 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 10:13:50] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 10:13:50] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 10:13:50] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 10:13:50] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 10:17:54] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 10:17:54] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 10:17:54] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 10:17:54] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 10:17:54] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 10:17:54] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 10:17:54] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 10:17:54] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_data 回调成功
+[2019-09-20 10:17:54] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 10:17:54] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 10:17:54] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 10:17:54] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 10:17:54] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_control 回调成功
+[2019-09-20 10:17:54] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 10:17:54] [n_route ] [INFO    ]: core.py line:224 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 10:17:54] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 10:17:54] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 10:17:54] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 10:17:54] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 10:22:02] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 10:22:03] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 10:22:03] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 10:22:03] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 10:22:03] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 10:22:03] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 10:22:03] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 10:22:03] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_data 回调成功
+[2019-09-20 10:22:03] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 10:22:03] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 10:22:03] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 10:22:03] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 10:22:03] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_control 回调成功
+[2019-09-20 10:22:03] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 10:22:03] [n_route ] [INFO    ]: core.py line:224 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 10:22:03] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 10:22:03] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 10:22:03] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 10:22:03] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 10:22:59] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 10:23:00] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 10:23:00] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 10:23:00] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 10:23:00] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 10:23:00] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 10:23:00] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 10:23:00] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_data 回调成功
+[2019-09-20 10:23:00] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 10:23:00] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 10:23:00] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 10:23:00] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 10:23:00] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_control 回调成功
+[2019-09-20 10:23:00] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 10:23:00] [n_route ] [INFO    ]: core.py line:224 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 10:23:00] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 10:23:00] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 10:23:00] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 10:23:00] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 10:23:47] [flask.app] [ERROR   ]: app.py line:1761 Exception on /n_route/v1.0/data/tag [GET]
+Traceback (most recent call last):
+  File "E:\Python36\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "E:\Python36\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "E:\Python36\lib\site-packages\flask_restplus\api.py", line 325, in wrapper
+    resp = resource(*args, **kwargs)
+  File "E:\Python36\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "E:\Python36\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "D:/pytest/test_route/n_route/app\interface.py", line 84, in get
+    ret, msg = self.read_tags(tags)
+  File "D:/pytest/test_route/n_route/app/n_route.py", line 82, in read_tags
+    data_list.append(sensor2dict(data))
+  File "D:/pytest/test_route/n_route/app\share.py", line 117, in sensor2dict
+    return {'tag': data.tag,
+AttributeError: 'NoneType' object has no attribute 'tag'
+[2019-09-20 10:26:40] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 10:26:40] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 10:26:40] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 10:26:40] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 10:26:40] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 10:26:40] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 10:26:40] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 10:26:40] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_data 回调成功
+[2019-09-20 10:26:40] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 10:26:40] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 10:26:40] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 10:26:40] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 10:26:40] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_control 回调成功
+[2019-09-20 10:26:40] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 10:26:40] [n_route ] [INFO    ]: core.py line:224 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 10:26:40] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 10:26:40] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 10:26:40] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 10:26:40] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 10:31:52] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 10:31:52] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 10:31:52] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 10:31:52] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 10:31:52] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 10:31:52] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 10:31:52] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 10:31:52] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_data 回调成功
+[2019-09-20 10:31:52] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 10:31:52] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 10:31:52] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 10:31:52] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 10:31:52] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_control 回调成功
+[2019-09-20 10:31:52] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 10:31:52] [n_route ] [INFO    ]: core.py line:224 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 10:31:52] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 10:31:52] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 10:31:52] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 10:31:52] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 10:34:27] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 10:34:27] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 10:34:27] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 10:34:27] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 10:34:27] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 10:34:27] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 10:34:27] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 10:34:27] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_data 回调成功
+[2019-09-20 10:34:27] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 10:34:27] [n_route ] [INFO    ]: core.py line:224 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 10:34:27] [n_route ] [INFO    ]: core.py line:234 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 10:34:27] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 10:34:27] [n_route ] [INFO    ]: core.py line:273 设置 driver_zmq_control 回调成功
+[2019-09-20 10:34:27] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 10:34:27] [n_route ] [INFO    ]: core.py line:224 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 10:34:27] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 10:34:27] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 10:34:27] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 10:34:27] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 10:43:06] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 10:43:06] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 10:43:06] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 10:43:06] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 10:43:06] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 10:43:06] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 10:43:06] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 10:43:06] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_data 回调成功
+[2019-09-20 10:43:06] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 10:43:06] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 10:43:06] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 10:43:06] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 10:43:06] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_control 回调成功
+[2019-09-20 10:43:06] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 10:43:06] [n_route ] [INFO    ]: core.py line:228 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 10:43:06] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 10:43:06] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 10:43:06] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 10:43:06] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 10:44:11] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 10:44:11] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 10:44:11] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 10:44:11] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 10:44:11] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 10:44:11] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 10:44:11] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 10:44:11] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_data 回调成功
+[2019-09-20 10:44:11] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 10:44:11] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 10:44:11] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 10:44:11] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 10:44:11] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_control 回调成功
+[2019-09-20 10:44:11] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 10:44:11] [n_route ] [INFO    ]: core.py line:228 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 10:44:11] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 10:44:11] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 10:44:11] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 10:44:11] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 10:49:57] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 10:49:58] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 10:49:58] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 10:49:58] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 10:49:58] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 10:49:58] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 10:49:58] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 10:49:58] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_data 回调成功
+[2019-09-20 10:49:58] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 10:49:58] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 10:49:58] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 10:49:58] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 10:49:58] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_control 回调成功
+[2019-09-20 10:49:58] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 10:49:58] [n_route ] [INFO    ]: core.py line:228 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 10:49:58] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 10:49:58] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 10:49:58] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 10:49:58] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 10:53:30] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 10:53:30] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 10:53:30] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 10:53:30] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 10:53:30] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 10:53:30] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 10:53:30] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 10:53:30] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_data 回调成功
+[2019-09-20 10:53:30] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 10:53:30] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 10:53:30] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 10:53:30] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 10:53:30] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_control 回调成功
+[2019-09-20 10:53:30] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 10:53:30] [n_route ] [INFO    ]: core.py line:228 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 10:53:30] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 10:53:30] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 10:53:30] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 10:53:30] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 10:53:41] [flask.app] [ERROR   ]: app.py line:1761 Exception on /n_route/v1.0/state [GET]
+Traceback (most recent call last):
+  File "E:\Python36\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "E:\Python36\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "E:\Python36\lib\site-packages\flask_restplus\api.py", line 325, in wrapper
+    resp = resource(*args, **kwargs)
+  File "E:\Python36\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "E:\Python36\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "D:/pytest/test_route/n_route/app\interface.py", line 123, in get
+    ret, msg = self.get_state()
+  File "D:/pytest/test_route/n_route/app/n_route.py", line 111, in get_state
+    if driver_info.driver:
+AttributeError: 'str' object has no attribute 'driver'
+[2019-09-20 10:54:31] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 10:54:31] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 10:54:31] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 10:54:31] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 10:54:31] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 10:54:31] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 10:54:31] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 10:54:31] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_data 回调成功
+[2019-09-20 10:54:31] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 10:54:31] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 10:54:31] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 10:54:31] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 10:54:31] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_control 回调成功
+[2019-09-20 10:54:31] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 10:54:31] [n_route ] [INFO    ]: core.py line:228 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 10:54:31] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 10:54:31] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 10:54:31] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 10:54:31] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 11:03:40] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 11:03:40] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 11:03:40] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 11:03:40] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 11:03:40] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 11:03:40] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 11:03:40] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 11:03:40] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_data 回调成功
+[2019-09-20 11:03:40] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 11:03:40] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 11:03:40] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 11:03:40] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 11:03:40] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_control 回调成功
+[2019-09-20 11:03:40] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 11:03:40] [n_route ] [INFO    ]: core.py line:228 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 11:03:40] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 11:03:40] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 11:03:40] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 11:03:40] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 11:03:46] [flask.app] [ERROR   ]: app.py line:1761 Exception on /n_route/v1.0/state [GET]
+Traceback (most recent call last):
+  File "E:\Python36\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "E:\Python36\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "E:\Python36\lib\site-packages\flask_restplus\api.py", line 325, in wrapper
+    resp = resource(*args, **kwargs)
+  File "E:\Python36\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "E:\Python36\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "D:/pytest/test_route/n_route/app\interface.py", line 123, in get
+    ret, msg = self.get_state()
+  File "D:/pytest/test_route/n_route/app/n_route.py", line 118, in get_state
+    driver_state['driver_state'] = driver_info.driver_info.driver.get_state()
+AttributeError: 'DriverInfo' object has no attribute 'driver_info'
+[2019-09-20 11:04:05] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 11:04:05] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 11:04:05] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 11:04:05] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 11:04:05] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 11:04:05] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 11:04:05] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 11:04:05] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_data 回调成功
+[2019-09-20 11:04:05] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 11:04:05] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 11:04:05] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 11:04:05] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 11:04:05] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_control 回调成功
+[2019-09-20 11:04:05] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 11:04:05] [n_route ] [INFO    ]: core.py line:228 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 11:04:05] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 11:04:05] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 11:04:05] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 11:04:05] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 11:04:48] [flask.app] [ERROR   ]: app.py line:1761 Exception on /n_route/v1.0/state [GET]
+Traceback (most recent call last):
+  File "E:\Python36\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "E:\Python36\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "E:\Python36\lib\site-packages\flask_restplus\api.py", line 325, in wrapper
+    resp = resource(*args, **kwargs)
+  File "E:\Python36\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "E:\Python36\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "D:/pytest/test_route/n_route/app\interface.py", line 123, in get
+    ret, msg = self.get_state()
+  File "D:/pytest/test_route/n_route/app/n_route.py", line 118, in get_state
+    driver_state['driver_state'] = driver_info.driver_info.driver.get_state()
+AttributeError: 'DriverInfo' object has no attribute 'driver_info'
+[2019-09-20 11:05:05] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 11:05:05] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 11:05:05] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 11:05:05] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 11:05:05] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 11:05:05] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 11:05:05] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 11:05:05] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_data 回调成功
+[2019-09-20 11:05:05] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 11:05:05] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 11:05:05] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 11:05:05] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 11:05:05] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_control 回调成功
+[2019-09-20 11:05:05] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 11:05:05] [n_route ] [INFO    ]: core.py line:228 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 11:05:05] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 11:05:05] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 11:05:05] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 11:05:05] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 11:06:42] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 11:06:42] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 11:06:42] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 11:06:42] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 11:06:42] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 11:06:42] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 11:06:42] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 11:06:42] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_data 回调成功
+[2019-09-20 11:06:42] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 11:06:42] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 11:06:42] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 11:06:42] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 11:06:42] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_control 回调成功
+[2019-09-20 11:06:42] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 11:06:42] [n_route ] [INFO    ]: core.py line:228 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 11:06:42] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 11:06:42] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 11:06:42] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 11:06:42] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 11:09:11] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 11:09:11] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 11:09:11] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 11:09:11] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 11:09:11] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 11:09:11] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 11:09:11] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 11:09:11] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_data 回调成功
+[2019-09-20 11:09:11] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 11:09:11] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 11:09:11] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 11:09:11] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 11:09:11] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_control 回调成功
+[2019-09-20 11:09:11] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 11:09:11] [n_route ] [INFO    ]: core.py line:228 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 11:09:11] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 11:09:11] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 11:09:11] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 11:09:11] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 11:10:18] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 11:10:18] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 11:10:18] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 11:10:18] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 11:10:18] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 11:10:18] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 11:10:18] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 11:10:18] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_data 回调成功
+[2019-09-20 11:10:18] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 11:10:18] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 11:10:18] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 11:10:18] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 11:10:18] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_control 回调成功
+[2019-09-20 11:10:18] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 11:10:18] [n_route ] [INFO    ]: core.py line:228 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 11:10:18] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 11:10:18] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 11:10:18] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 11:10:18] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 11:11:22] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 11:11:22] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 11:11:22] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 11:11:22] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 11:11:22] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 11:11:22] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 11:11:22] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 11:11:22] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_data 回调成功
+[2019-09-20 11:11:22] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 11:11:22] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 11:11:22] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 11:11:22] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 11:11:22] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_control 回调成功
+[2019-09-20 11:11:22] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 11:11:22] [n_route ] [INFO    ]: core.py line:228 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 11:11:22] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 11:11:22] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 11:11:22] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 11:11:22] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 11:12:25] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 11:12:25] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 11:12:25] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 11:12:25] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 11:12:25] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 11:12:25] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 11:12:25] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 11:12:25] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_data 回调成功
+[2019-09-20 11:12:25] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 11:12:25] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 11:12:25] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 11:12:25] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 11:12:25] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_control 回调成功
+[2019-09-20 11:12:25] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 11:12:25] [n_route ] [INFO    ]: core.py line:228 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 11:12:25] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 11:12:25] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 11:12:25] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 11:12:25] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 11:28:02] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 11:28:03] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 11:28:03] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 11:28:03] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 11:28:03] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 11:28:03] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 11:28:03] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 11:28:03] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_data 回调成功
+[2019-09-20 11:28:03] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 11:28:03] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 11:28:03] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 11:28:03] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 11:28:03] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_control 回调成功
+[2019-09-20 11:28:03] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 11:28:03] [n_route ] [INFO    ]: core.py line:228 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 11:28:03] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 11:28:03] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 11:28:03] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 11:28:03] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-20 11:56:23] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-20 11:56:23] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_data
+[2019-09-20 11:56:23] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_control
+[2019-09-20 11:56:23] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-20 11:56:23] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_data 设置基础配置成功
+[2019-09-20 11:56:23] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_data 设置运行配置成功
+[2019-09-20 11:56:23] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_data 初始化成功
+[2019-09-20 11:56:23] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_data 回调成功
+[2019-09-20 11:56:23] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_data 成功
+[2019-09-20 11:56:23] [n_route ] [INFO    ]: core.py line:228 驱动 driver_zmq_control 设置基础配置成功
+[2019-09-20 11:56:23] [n_route ] [INFO    ]: core.py line:238 驱动 driver_zmq_control 设置运行配置成功
+[2019-09-20 11:56:23] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_control 初始化成功
+[2019-09-20 11:56:23] [n_route ] [INFO    ]: core.py line:277 设置 driver_zmq_control 回调成功
+[2019-09-20 11:56:23] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_control 成功
+[2019-09-20 11:56:23] [n_route ] [INFO    ]: core.py line:228 驱动 driver_websocket 设置基础配置成功
+[2019-09-20 11:56:23] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-20 11:56:23] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_control:all:5
+[2019-09-20 11:56:23] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-20 11:56:23] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_data:control:0
+[2019-09-23 10:40:51] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-23 10:40:52] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_sub
+[2019-09-23 10:40:52] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_pub
+[2019-09-23 10:40:52] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-23 10:40:52] [n_route ] [INFO    ]: core.py line:229 驱动 driver_zmq_sub 设置基础配置成功
+[2019-09-23 10:40:52] [n_route ] [INFO    ]: core.py line:240 驱动 driver_zmq_sub 设置运行配置成功
+[2019-09-23 10:40:52] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_sub 初始化成功
+[2019-09-23 10:40:52] [n_route ] [INFO    ]: core.py line:279 设置 driver_zmq_sub 回调成功
+[2019-09-23 10:40:52] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_sub 成功
+[2019-09-23 10:40:52] [n_route ] [INFO    ]: core.py line:229 驱动 driver_zmq_pub 设置基础配置成功
+[2019-09-23 10:40:52] [n_route ] [INFO    ]: core.py line:240 驱动 driver_zmq_pub 设置运行配置成功
+[2019-09-23 10:40:52] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_pub 初始化成功
+[2019-09-23 10:40:52] [n_route ] [INFO    ]: core.py line:279 设置 driver_zmq_pub 回调成功
+[2019-09-23 10:40:52] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_pub 成功
+[2019-09-23 10:40:52] [n_route ] [INFO    ]: core.py line:229 驱动 driver_websocket 设置基础配置成功
+[2019-09-23 10:40:52] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-23 10:40:52] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_pub:all:5
+[2019-09-23 10:40:52] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-23 10:40:52] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_sub:control:0
+[2019-09-26 17:54:59] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-26 17:55:00] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_sub
+[2019-09-26 17:55:00] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_pub
+[2019-09-26 17:55:00] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-26 17:55:01] [n_route ] [INFO    ]: core.py line:229 驱动 driver_zmq_sub 设置基础配置成功
+[2019-09-26 17:55:01] [n_route ] [INFO    ]: core.py line:240 驱动 driver_zmq_sub 设置运行配置成功
+[2019-09-26 17:55:01] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_sub 初始化成功
+[2019-09-26 17:55:01] [n_route ] [INFO    ]: core.py line:279 设置 driver_zmq_sub 回调成功
+[2019-09-26 17:55:01] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_sub 成功
+[2019-09-26 17:55:01] [n_route ] [INFO    ]: core.py line:229 驱动 driver_zmq_pub 设置基础配置成功
+[2019-09-26 17:55:01] [n_route ] [INFO    ]: core.py line:240 驱动 driver_zmq_pub 设置运行配置成功
+[2019-09-26 17:55:01] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_pub 初始化成功
+[2019-09-26 17:55:01] [n_route ] [INFO    ]: core.py line:279 设置 driver_zmq_pub 回调成功
+[2019-09-26 17:55:01] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_pub 成功
+[2019-09-26 17:55:01] [n_route ] [INFO    ]: core.py line:229 驱动 driver_websocket 设置基础配置成功
+[2019-09-26 17:55:01] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-26 17:55:01] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_pub:all:5
+[2019-09-26 17:55:01] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-26 17:55:01] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_sub:control:0
+[2019-09-26 17:56:08] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-09-26 17:56:08] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_sub
+[2019-09-26 17:56:08] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_pub
+[2019-09-26 17:56:08] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-09-26 17:56:08] [n_route ] [INFO    ]: core.py line:229 驱动 driver_zmq_sub 设置基础配置成功
+[2019-09-26 17:56:08] [n_route ] [INFO    ]: core.py line:240 驱动 driver_zmq_sub 设置运行配置成功
+[2019-09-26 17:56:08] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_sub 初始化成功
+[2019-09-26 17:56:08] [n_route ] [INFO    ]: core.py line:279 设置 driver_zmq_sub 回调成功
+[2019-09-26 17:56:08] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_sub 成功
+[2019-09-26 17:56:08] [n_route ] [INFO    ]: core.py line:229 驱动 driver_zmq_pub 设置基础配置成功
+[2019-09-26 17:56:08] [n_route ] [INFO    ]: core.py line:240 驱动 driver_zmq_pub 设置运行配置成功
+[2019-09-26 17:56:08] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_pub 初始化成功
+[2019-09-26 17:56:08] [n_route ] [INFO    ]: core.py line:279 设置 driver_zmq_pub 回调成功
+[2019-09-26 17:56:08] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_pub 成功
+[2019-09-26 17:56:08] [n_route ] [INFO    ]: core.py line:229 驱动 driver_websocket 设置基础配置成功
+[2019-09-26 17:56:08] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-09-26 17:56:08] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_pub:all:5
+[2019-09-26 17:56:08] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-09-26 17:56:08] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_sub:control:0
+[2019-10-12 15:56:55] [n_route ] [INFO    ]: cfg.py line:92 加载basic.json配置成功
+[2019-10-12 15:56:56] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_sub
+[2019-10-12 15:56:56] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_zmq_pub
+[2019-10-12 15:56:56] [n_route ] [INFO    ]: core.py line:76 加载驱动成功:driver_websocket
+[2019-10-12 15:56:56] [n_route ] [INFO    ]: core.py line:229 驱动 driver_zmq_sub 设置基础配置成功
+[2019-10-12 15:56:56] [n_route ] [INFO    ]: core.py line:240 驱动 driver_zmq_sub 设置运行配置成功
+[2019-10-12 15:56:56] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_sub 初始化成功
+[2019-10-12 15:56:56] [n_route ] [INFO    ]: core.py line:279 设置 driver_zmq_sub 回调成功
+[2019-10-12 15:56:56] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_sub 成功
+[2019-10-12 15:56:56] [n_route ] [INFO    ]: core.py line:229 驱动 driver_zmq_pub 设置基础配置成功
+[2019-10-12 15:56:56] [n_route ] [INFO    ]: core.py line:240 驱动 driver_zmq_pub 设置运行配置成功
+[2019-10-12 15:56:56] [n_route ] [INFO    ]: core.py line:100 驱动 driver_zmq_pub 初始化成功
+[2019-10-12 15:56:56] [n_route ] [INFO    ]: core.py line:279 设置 driver_zmq_pub 回调成功
+[2019-10-12 15:56:56] [n_route ] [INFO    ]: core.py line:110 启动 driver_zmq_pub 成功
+[2019-10-12 15:56:56] [n_route ] [INFO    ]: core.py line:229 驱动 driver_websocket 设置基础配置成功
+[2019-10-12 15:56:56] [n_route ] [INFO    ]: core.py line:100 驱动 driver_websocket 初始化成功
+[2019-10-12 15:56:56] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_pub:all:5
+[2019-10-12 15:56:56] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_websocket:websocket:2
+[2019-10-12 15:56:56] [n_route ] [INFO    ]: core.py line:132 关联发布泵成功:driver_zmq_sub:control:0
